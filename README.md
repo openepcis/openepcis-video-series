@@ -1,7 +1,6 @@
 <div align="center">
   <img src="https://openepcis.io/img/openepcis-logo.svg" alt="OpenEPCIS logo" width="20%">
 
-  [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](LICENSE)
   [![GitHub Stars](https://img.shields.io/github/stars/openepcis/openepcis-video-series?style=social)](https://github.com/openepcis/openepcis-video-series)
 </div>
 
