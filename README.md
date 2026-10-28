@@ -20,7 +20,7 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 |---|-------|-------------|--------|-------|
 | 1 | GS1 EPCIS and OpenEPCIS: what a supply chain event is | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep01-gs1-epcis-and-openepcis.pptx) | [Episode-1 on Youtube](https://www.youtube.com/watch?v=YyFLzCEuPa0) |
 | 2 | Identifiers and GS1 Digital Link | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | [Episode-2 on Youtube](https://www.youtube.com/watch?v=c8tV7OA3Rqs) |
-| 3 | The Five EPCIS Event Types | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) |  |
+| 3 | The Five EPCIS Event Types | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | |
 
 ## Tools used
 
