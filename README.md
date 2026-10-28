@@ -19,7 +19,8 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 | # | Topic | Tools shown | Slides | Video |
 |---|-------|-------------|--------|-------|
 | 1 | GS1 EPCIS and OpenEPCIS: what a supply chain event is | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep01-gs1-epcis-and-openepcis.pptx) | [Episode-1 on Youtube](https://www.youtube.com/watch?v=YyFLzCEuPa0) |
-| 2 | Identifiers and GS1 Digital Link | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | coming soon |
+| 2 | Identifiers and GS1 Digital Link | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | [Episode-2 on Youtube](https://www.youtube.com/watch?v=c8tV7OA3Rqs) |
+| 3 | The Five EPCIS Event Types | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) |  |
 
 ## Tools used
 
@@ -33,6 +34,11 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 - [EPCIS Event Data Generator](https://tools.openepcis.io/ui/event-data-generator)
 - [EPCIS Format Converter](https://tools.openepcis.io/ui/format-converter)
 - [Barcode size estimator by Mark](https://gs1.github.io/moduleCount/)
+
+### Episode - 3
+- [EPCIS Event Data Designer](https://tools.openepcis.io/ui/event-data-designer)
+- [EPCIS Format Converter](https://tools.openepcis.io/ui/format-converter)
+
 
 ## Related
 
