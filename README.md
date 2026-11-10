@@ -20,25 +20,36 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 |---|-------|-------------|--------|-------|
 | 1 | GS1 EPCIS and OpenEPCIS: what a supply chain event is | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep01-gs1-epcis-and-openepcis.pptx) | [Episode-1 on Youtube](https://www.youtube.com/watch?v=YyFLzCEuPa0) |
 | 2 | Identifiers and GS1 Digital Link | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | [Episode-2 on Youtube](https://www.youtube.com/watch?v=c8tV7OA3Rqs) |
-| 3 | The Five EPCIS Event Types | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | |
+| 3 | The Five EPCIS Event Types | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | [Episode-3 on Youtube](https://www.youtube.com/watch?v=UAVOb6c8qCA) |
+| 4 | CBV and Master Data: Speaking the same language | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep04-cbv-and-master-data.pptx) | |
 
 ## Tools used
 
-### Episode - 1
+### Episode - 1: GS1 EPCIS and OpenEPCIS: what a supply chain event is
 - [EPCIS Event Data Designer](https://tools.openepcis.io/ui/event-data-designer)
 - [GS1 EPCIS standard](https://ref.gs1.org/standards/epcis/)
 - [GS1 CBV standard](https://ref.gs1.org/standards/cbv/)
+- [EPCIS Browser](https://ref.gs1.org/epcis/)
+  
 
-
-### Episode - 2
+### Episode - 2: Identifiers and GS1 Digital Link
 - [EPCIS Event Data Generator](https://tools.openepcis.io/ui/event-data-generator)
 - [EPCIS Format Converter](https://tools.openepcis.io/ui/format-converter)
 - [Barcode size estimator by Mark](https://gs1.github.io/moduleCount/)
 
-### Episode - 3
+
+### Episode - 3: The Five EPCIS Event Types
 - [EPCIS Event Data Designer](https://tools.openepcis.io/ui/event-data-designer)
 - [EPCIS Format Converter](https://tools.openepcis.io/ui/format-converter)
+  
 
+### Episode - 4: CBV and Master Data: Speaking the same language
+- [EPCIS Event Data Generator](https://tools.openepcis.io/ui/event-data-generator)
+- [GS1 CBV standard](https://ref.gs1.org/standards/cbv/)
+- [CBV Browser](https://ref.gs1.org/cbv/)
+- [Masterdata Standard](https://ref.gs1.org/standards/epcis/#page=33)
+- [Masterdata](https://openepcis.io/docs/platform-overview/modules/masterdata/)
+  
 
 ## Related
 
