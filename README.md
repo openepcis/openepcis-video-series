@@ -21,7 +21,8 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 | 1 | GS1 EPCIS and OpenEPCIS: what a supply chain event is | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep01-gs1-epcis-and-openepcis.pptx) | [Episode-1 on Youtube](https://www.youtube.com/watch?v=YyFLzCEuPa0) |
 | 2 | Identifiers and GS1 Digital Link | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | [Episode-2 on Youtube](https://www.youtube.com/watch?v=c8tV7OA3Rqs) |
 | 3 | The Five EPCIS Event Types | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | [Episode-3 on Youtube](https://www.youtube.com/watch?v=UAVOb6c8qCA) |
-| 4 | CBV and Master Data: Speaking the same language | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep04-cbv-and-master-data.pptx) | |
+| 4 | CBV and Master Data: Speaking the same language | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep04-cbv-and-master-data.pptx) | [Episode-4 on Youtube](https://youtu.be/71CMkEDshP0?si=rXVyneB3RZG_Ogi8) |
+| 5 | XML or JSON? | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep05-xml-or-json.pptx) | [Episode- on Youtube]() |
 
 ## Tools used
 
@@ -49,7 +50,15 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 - [CBV Browser](https://ref.gs1.org/cbv/)
 - [Masterdata Standard](https://ref.gs1.org/standards/epcis/#page=33)
 - [Masterdata](https://openepcis.io/docs/platform-overview/modules/masterdata/)
+
+### Episode - 5: XML or JSON?
+- [EPCIS Event Data Generator](https://tools.openepcis.io/ui/event-data-generator)
+- [EPCIS Format Converter](https://tools.openepcis.io/ui/format-converter)
+- [EPCIS 2.0 changes](https://ref.gs1.org/standards/epcis/#page=14)
+- [Read more on Format Converter](https://openepcis.io/docs/format-converter)
+- [Read more on Version Transformer](https://openepcis.io/docs/version-converter)
   
+
 
 ## Related
 
