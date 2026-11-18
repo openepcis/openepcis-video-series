@@ -57,6 +57,7 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 - [EPCIS 2.0 changes](https://ref.gs1.org/standards/epcis/#page=14)
 - [Read more on Format Converter](https://openepcis.io/docs/format-converter)
 - [Read more on Version Transformer](https://openepcis.io/docs/version-converter)
+- [JSON-LD Playground](https://json-ld.org/playground/next/) Note: This tool is developed and maintained by JSON-LD community and not part of OpenEPCIS
   
 
 
