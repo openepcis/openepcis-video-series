@@ -22,7 +22,8 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 | 2 | Identifiers and GS1 Digital Link | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | [Episode-2 on Youtube](https://www.youtube.com/watch?v=c8tV7OA3Rqs) |
 | 3 | The Five EPCIS Event Types | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | [Episode-3 on Youtube](https://www.youtube.com/watch?v=UAVOb6c8qCA) |
 | 4 | CBV and Master Data: Speaking the same language | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep04-cbv-and-master-data.pptx) | [Episode-4 on Youtube](https://youtu.be/71CMkEDshP0?si=rXVyneB3RZG_Ogi8) |
-| 5 | XML or JSON? | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep05-xml-or-json.pptx) | [Episode- on Youtube]() |
+| 5 | XML or JSON? | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep05-xml-or-json.pptx) | [Episode-5 on Youtube](https://www.youtube.com/watch?v=AXo6tbS-FKI) |
+| 6 | EPCIS Event Validation | Format Converter, Profile Checker | [PPTX]() | [Episode-6 on Youtube]() |
 
 ## Tools used
 
