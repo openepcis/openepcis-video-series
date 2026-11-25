@@ -23,7 +23,7 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 | 3 | The Five EPCIS Event Types | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | [Episode-3 on Youtube](https://www.youtube.com/watch?v=UAVOb6c8qCA) |
 | 4 | CBV and Master Data: Speaking the same language | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep04-cbv-and-master-data.pptx) | [Episode-4 on Youtube](https://youtu.be/71CMkEDshP0?si=rXVyneB3RZG_Ogi8) |
 | 5 | XML or JSON? | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep05-xml-or-json.pptx) | [Episode-5 on Youtube](https://www.youtube.com/watch?v=AXo6tbS-FKI) |
-| 6 | EPCIS Event Validation | Format Converter, Profile Checker | [PPTX]() | [Episode-6 on Youtube]() |
+| 6 | EPCIS Event Validation and Partner Profiles | Event Data Viewer, Profile Checker | [PPTX](slides/openepcis-video-series-ep06-validation-and-partner-profiles.pptx) | [Episode-6 on Youtube]() |
 
 ## Tools used
 
@@ -59,8 +59,17 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 - [Read more on Format Converter](https://openepcis.io/docs/format-converter)
 - [Read more on Version Transformer](https://openepcis.io/docs/version-converter)
 - [JSON-LD Playground](https://json-ld.org/playground/next/) Note: This tool is developed and maintained by JSON-LD community and not part of OpenEPCIS
-  
 
+### Episode - 6: EPCIS Event Validation and Partner Profile
+- [EPCIS Profile Checker Docs](https://openepcis.io/docs/profile-checker)
+- [EPCIS Event Data Viewer](https://tools.openepcis.io/ui/view-event-data)
+- [EPCIS Profile Checker](https://profile-checker.openepcis.io/)
+- [EPCIS Profile Builder](https://profile-checker.openepcis.io/profile-builder)
+- [EPCIS Profile Validator](https://profile-checker.openepcis.io/event-validator)
+- [EPCIS Snippet Search](https://profile-checker.openepcis.io/snippet-search)
+- [EPCIS Validation Service](https://github.com/openepcis/openepcis-document-validation-service)
+- [EPCIS Snippet Web](https://github.com/openepcis/openepcis-snippet-web)
+- [EPCIS Event Sentry](https://github.com/openepcis/openepcis-event-sentry)
 
 ## Related
 
