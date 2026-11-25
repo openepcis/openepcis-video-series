@@ -16,14 +16,14 @@ Developers, supply chain and traceability teams, and anyone who has to send or r
 
 ## Episodes
 
-| # | Topic | Tools shown | Slides | Video |
-|---|-------|-------------|--------|-------|
-| 1 | GS1 EPCIS and OpenEPCIS: what a supply chain event is | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep01-gs1-epcis-and-openepcis.pptx) | [Episode-1 on Youtube](https://www.youtube.com/watch?v=YyFLzCEuPa0) |
-| 2 | Identifiers and GS1 Digital Link | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | [Episode-2 on Youtube](https://www.youtube.com/watch?v=c8tV7OA3Rqs) |
-| 3 | The Five EPCIS Event Types | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | [Episode-3 on Youtube](https://www.youtube.com/watch?v=UAVOb6c8qCA) |
-| 4 | CBV and Master Data: Speaking the same language | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep04-cbv-and-master-data.pptx) | [Episode-4 on Youtube](https://youtu.be/71CMkEDshP0?si=rXVyneB3RZG_Ogi8) |
-| 5 | XML or JSON? | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep05-xml-or-json.pptx) | [Episode-5 on Youtube](https://www.youtube.com/watch?v=AXo6tbS-FKI) |
-| 6 | EPCIS Event Validation and Partner Profiles | Event Data Viewer, Profile Checker | [PPTX](slides/openepcis-video-series-ep06-validation-and-partner-profiles.pptx) | [Episode-6 on Youtube]() |
+| # | Topic | Recording Date | Tools shown | Slides | Video |
+|---|-------|-------------|-------------|--------|-------|
+| 1 | GS1 EPCIS and OpenEPCIS: what a supply chain event is | 14 October 2026 | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep01-gs1-epcis-and-openepcis.pptx) | [Episode-1 on Youtube](https://www.youtube.com/watch?v=YyFLzCEuPa0) |
+| 2 | Identifiers and GS1 Digital Link | 21 October 2026 | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep02-identifiers-and-gs1-digital-link.pptx) | [Episode-2 on Youtube](https://www.youtube.com/watch?v=c8tV7OA3Rqs) |
+| 3 | The Five EPCIS Event Types | 28 October 2026 | Event Data Designer, Format Converter | [PPTX](slides/openepcis-video-series-ep03-the-five-epcis-event-types.pptx) | [Episode-3 on Youtube](https://www.youtube.com/watch?v=UAVOb6c8qCA) |
+| 4 | CBV and Master Data: Speaking the same language | 11 November 2026 | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep04-cbv-and-master-data.pptx) | [Episode-4 on Youtube](https://youtu.be/71CMkEDshP0?si=rXVyneB3RZG_Ogi8) |
+| 5 | XML or JSON? | 18 November 2026 | Event Data Generator, Format Converter | [PPTX](slides/openepcis-video-series-ep05-xml-or-json.pptx) | [Episode-5 on Youtube](https://www.youtube.com/watch?v=AXo6tbS-FKI) |
+| 6 | EPCIS Event Validation and Partner Profiles | 25 November 2026 | Event Data Viewer, Profile Checker | [PPTX](slides/openepcis-video-series-ep06-validation-and-partner-profiles.pptx) | [Episode-6 on Youtube]() |
 
 ## Tools used
 
